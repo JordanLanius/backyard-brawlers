@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 01117f5de8163524a9251c30df68b083
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Covington
+  fontNames:
+  - Covington
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 80bc850c20b121b4887de48003bf01ff, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
